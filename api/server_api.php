@@ -6,7 +6,7 @@
 					<server>
 						<server_name>EU Global</server_name>
 						<login_server>127.0.0.1</login_server>
-						<asset_server>http://127.0.0.1/assets</asset_server>
+						<asset_server>https://github.com/eewil/xamppless/raw/main/assets/</asset_server>
 						<game_domain>127.0.0.1</game_domain>
 						<game_type>int</game_type>
 						<world_id>1</world_id>
